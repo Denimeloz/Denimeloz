@@ -1,133 +1,37 @@
-Bienvenue sur mon profil GitHub !  
-Je suis passionné(e) par la technologie, le développement logiciel et l’apprentissage continu. Ici, tu trouveras mes projets, mes contributions open-source et un aperçu de mon parcours dans le monde du code.
+# 👋 Salut, moi c'est Denimeloz
 
----
-
-## 🚀 À propos de moi
-
-- 🎓 **Parcours** : [Ajoute ici tes études ou formations principales]
-- 💼 **Profession** : [Ton poste ou spécialité actuelle]
-- 🌱 **Actuellement en train d’apprendre** : [Technologies, frameworks, ou concepts que tu explores]
-- 💬 **Discutons tech !** J’aime échanger sur [tes sujets favoris, ex: IA, web, devops, etc.]
-- 🧑‍💻 **Stack préférée** : [Langages & outils principaux, ex: JavaScript, Python, React, Docker…]
-- ⚡ **Fun fact** : [Quelque chose d’original sur toi !]
-
----
-
-## 🛠️ Compétences
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Ajoute ou retire des badges selon tes compétences -->
-
----
-
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denimelo&show_icons=true&theme=radical" alt="stats Denimelo"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denimelo&theme=radical" alt="streak Denimelo"/>
-</p>
-
----
-
-## 📂 Projets phares
-
-- [Nom du projet 1](lien_vers_le_repo) : Courte description du projet, stack utilisée, fonctionnalités principales.
-- [Nom du projet 2](lien_vers_le_repo) : Courte description du projet, stack utilisée, fonctionnalités principales.
-- [Nom du projet 3](lien_vers_le_repo) : Courte description du projet, stack utilisée, fonctionnalités principales.
-
-> Découvre tous mes projets publics dans l’onglet [Repositories](https://github.com/Denimelo?tab=repositories) !
-
----
-
-## 📫 Me contacter
-
-- Email : [ton.email@email.com](mailto:ton.email@email.com)
-- LinkedIn : [TonProfilLinkedIn](https://linkedin.com/in/tonprofil)
-- Twitter/X : [@tonhandle](https://twitter.com/tonhandle)
-- Discord : [TonPseudo#1234]
-
----
-
-## ❤️ Merci d’être passé(e) !
-
-N’hésite pas à laisser une ⭐️ sur les repos que tu apprécies et à me contacter pour toute collaboration ou discussion tech !
-
----
-
-<!--
-Astuce : Personnalise ce README avec tes infos, ajoute des GIF, des images ou des liens vers tes articles/blogs pour le rendre unique !
---># 👋 Salut, moi c'est Denimelo !
-
-Bienvenue sur mon profil GitHub !  
-Je suis passionné(e) par la technologie, le développement logiciel et l’apprentissage continu. Ici, tu trouveras mes projets, mes contributions open-source et un aperçu de mon parcours dans le monde du code.
-
----
+Bienvenue sur mon profil GitHub !
 
 ## 🚀 À propos de moi
 
-- 🎓 **Parcours** : [Ajoute ici tes études ou formations principales]
-- 💼 **Profession** : [Ton poste ou spécialité actuelle]
-- 🌱 **Actuellement en train d’apprendre** : [Technologies, frameworks, ou concepts que tu explores]
-- 💬 **Discutons tech !** J’aime échanger sur [tes sujets favoris, ex: IA, web, devops, etc.]
-- 🧑‍💻 **Stack préférée** : [Langages & outils principaux, ex: JavaScript, Python, React, Docker…]
-- ⚡ **Fun fact** : [Quelque chose d’original sur toi !]
+- 🔭 Je travaille actuellement sur des projets passionnants autour du développement web et logiciel.
+- 🌱 J'apprends constamment de nouvelles technologies et j'aime relever de nouveaux défis.
+- 👯 Je cherche à collaborer sur des projets open-source ou des idées innovantes.
+- 💬 N’hésite pas à me contacter pour discuter de tech, de code ou de projets !
+- ⚡ Fun fact : Je suis passionné(e) par la tech, le partage de connaissances et l’amélioration continue !
 
----
+## 🛠️ Compétences & Technologies
 
-## 🛠️ Compétences
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Ajoute ou retire des badges selon tes compétences -->
-
----
+- **Langages :** [ex: JavaScript, Python, Java, TypeScript, PHP]
+- **Frameworks & Libraries :** [ex: React, Node.js, Django, Laravel, Vue, Express]
+- **Outils :** [ex: Git, Docker, VSCode, Linux, Figma]
+- **Autres :** [ex: API REST, CI/CD, TDD, DevOps]
 
 ## 📈 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denimelo&show_icons=true&theme=radical" alt="stats Denimelo"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denimelo&theme=radical" alt="streak Denimelo"/>
-</p>
+![Stats GitHub Denimeloz](https://github-readme-stats.vercel.app/api?username=Denimeloz&show_icons=true&theme=tokyonight&count_private=true)
 
----
-
-## 📂 Projets phares
-
-- [Nom du projet 1](lien_vers_le_repo) : Courte description du projet, stack utilisée, fonctionnalités principales.
-- [Nom du projet 2](lien_vers_le_repo) : Courte description du projet, stack utilisée, fonctionnalités principales.
-- [Nom du projet 3](lien_vers_le_repo) : Courte description du projet, stack utilisée, fonctionnalités principales.
-
-> Découvre tous mes projets publics dans l’onglet [Repositories](https://github.com/Denimelo?tab=repositories) !
-
----
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Denimeloz&layout=compact&theme=tokyonight)
 
 ## 📫 Me contacter
 
-- Email : [ton.email@email.com](mailto:ton.email@email.com)
-- LinkedIn : [TonProfilLinkedIn](https://linkedin.com/in/tonprofil)
-- Twitter/X : [@tonhandle](https://twitter.com/tonhandle)
-- Discord : [TonPseudo#1234]
+- **Email :** [ton.email@exemple.com]
+- **LinkedIn :** [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
+- **Twitter/X :** [@tonpseudo](https://twitter.com/tonpseudo)
 
 ---
 
-## ❤️ Merci d’être passé(e) !
+> “Le meilleur moyen de prédire l’avenir, c’est de le créer.”  
+> — Peter Drucker
 
-N’hésite pas à laisser une ⭐️ sur les repos que tu apprécies et à me contacter pour toute collaboration ou discussion tech !
-
----
-
-<!--
-Astuce : Personnalise ce README avec tes infos, ajoute des GIF, des images ou des liens vers tes articles/blogs pour le rendre unique !
--->
+Merci pour ta visite et bon code ! 🚀
